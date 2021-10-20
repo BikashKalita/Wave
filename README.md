@@ -1,4 +1,4 @@
-## 📒 A Simple Music Player built using ReactJS
+## 🎵 Music Player built using ReactJS
 
 ✔️ **Ease to Use**: Simple and easy to use.
 
