@@ -8,7 +8,7 @@
 
 ## Demo
 
-[https://saveitnote.netlify.app/](https://saveitnote.netlify.app/)
+[https://musicwaves.netlify.app/](https://musicwaves.netlify.app/)
 
 ---
 
